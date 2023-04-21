@@ -1,7 +1,7 @@
 
 # Open PDF file without password using python.
 
-In this project, you can crack any PDF file without password.
+This Python script provides a solution to open password-protected PDF files. It uses the PyPDF2 library to remove the password from the PDF file and then opens it in the default PDF viewer of your system. This can come in handy if you have forgotten the password of a PDF file that you urgently need to access. With just a few lines of Python code, you can easily open the PDF file without needing to enter the password.
 
 let's start...............
 
